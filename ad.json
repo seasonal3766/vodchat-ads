@@ -2,14 +2,9 @@
   "enabled": true,
   "ads": [
     {
-      "img": "https://raw.githubusercontent.com/seasonal3766/vodchat-ads/main/banners/sample-250x110.png",
+      "img": "https://raw.githubusercontent.com/seasonal3766/vodchat-ads/main/banners/DEFAULT.png",
       "link": "https://open.kakao.com/o/syQNBgEi",
-      "alt": "샘플 광고"
-    },
-    {
-      "img": "https://raw.githubusercontent.com/seasonal3766/vodchat-ads/main/banners/Frame1.png",
-      "link": "https://open.kakao.com/o/syQNBgEi",
-      "alt": "샘플 광고"
+      "alt": "기본 광고"
     }
   ]
 }
